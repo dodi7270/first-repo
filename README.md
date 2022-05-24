@@ -6,9 +6,9 @@
 
 ## How to start
 
-'''shell
+```shell
 $ python3 hello.py
-'''
+```
 
 $y=x+1$
 
